@@ -1,0 +1,10 @@
+{
+  "name": "Remix EduVerse",
+  "description": "Your Personal AI Career Companion - AI-Powered Student Career Platform",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
